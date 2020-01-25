@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohngaite.wthefourth.com/sitemap.xml
